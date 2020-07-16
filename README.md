@@ -25,7 +25,7 @@
  Sir Francis Bacon, in "The New Atlantis", 1626
  
 
-geoMusica 1.200701
+geoMusica 1.200715
 
 geoMusica is a tool to make music with geometry. 
 Compose geometries and listen to the musical 
