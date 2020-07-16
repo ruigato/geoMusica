@@ -103,10 +103,10 @@ Acknowledgements:
 geoMusica has benefit from the incredible work of 
 Darien Brito with TDMorph, that allowed for a 
 seamless integration of a preset system that is 
-at the same timea parametric generative tool by 
+at the same time a parametric generative tool by 
 itself, expanding the possibilities of geoMusica 
 greatly.
-
+https://github.com/DarienBrito/TDMorph
 
 
 Rui Gato
