@@ -1,0 +1,12 @@
+[RELEASED]
+
+[privateBeta 1.200718]
+
+New features:
+
+- added quit button on bottom right of geoMusicaRender, quits all geoMusica processes simultaneosly
+- removed TD splashscreen (testing)
+- added XPRT / BASIC button on top right geoMusicaUI, to toggle between what will be the two versions of future official release, one for Derivative Comunnity, another for the Patreon support page.
+- added 12TET Tuning setting to geoMusicaSynth, to choose the tuning standard of equal temperament limitation to frequencies
+
+
