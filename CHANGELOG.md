@@ -1,5 +1,12 @@
 [RELEASED]
 
+[privateBeta 1.200721]
+
+New features:
+- added auto versioning system
+- render and resolution responsiveness on geoMusicaRender and geoMusicaUI
+
+
 [privateBeta 1.200718]
 
 New features:
