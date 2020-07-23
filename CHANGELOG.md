@@ -2,6 +2,9 @@
 
 [privateBeta 1.200723]
 
+- TD 2020.25380 base upgrade
+- geoMusicaSynth got engineCOMP functionality on the Voice COMP
+
 New features:
 - added buttons to bring forward the geoMusicaEngine and the geoMusicaSynth windows
 - added button for link to help development
