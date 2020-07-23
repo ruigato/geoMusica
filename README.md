@@ -170,10 +170,9 @@ and respect the licence:
 GNU General Public License v3 (GPL-3) 
 
 This means that if at some point you would like to 
-use this tool in a commercial endeavour for which 
-you do not want to disclose the source code you 
-will get in touch first, so a fair arrangement 
-can be made.
+use this tool in a commercial endeavour or you do not 
+want to disclose the source code you will get in touch 
+first, so a fair arrangement can be made.
 
 Enjoy!
 
