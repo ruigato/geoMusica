@@ -116,7 +116,9 @@ standard timming resolution. You should connect
 the Engine via MIDI to your favorite sound source, 
 preferably a Polyphonic Aftertouch able synth so you 
 can enjoy the full spectrum of frequencies that 
-geoMusica generates.
+geoMusica generates. IMPORTANT: the Engine is hardwired
+to output each layer in a separate MIDI channel, so 
+Layer 1 goes to MIDI Channel 1, and so on.
 
 geoMusicaUI: 
 the control center for the system, here you define
