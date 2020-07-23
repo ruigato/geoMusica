@@ -30,7 +30,7 @@
 
 geoMusica 1.200723
 
-Author:
+Copyleft 2016-2020:
 Rui Gato
 gato.rui@gmail.com
 http://www.ruigato.info/blog/
@@ -193,6 +193,29 @@ geoMusicaSynth is based on the very much helpful
 TD community asset from Owen Kirby, clarifying 
 the correct way to do audio in TD, "howtoaudio.toe".
 
+
+/////////////////////////////////////////////////////
+
+SPECIAL THANKS:
+
+to my wife and kids that generously agreed to share 
+our time with this life project, 
+
+special thanks to my Sacred Geometry teacher:
+Luis Elye,
+
+special thanks to this developers 
+from the TD Community that contributed 
+with inspiration, code or other to this project:
+
+Fermat Spiral .toe inspiration - Calvin Zirk,
+TDMorph - Darien Brito,
+Line intersections python script - Vytenis Zagorskis,
+howtoaudio (in TouchDesigner) - Owen Kirby
+wisdom along the way - Ivan delSol, Idzard, 
+Felix Larreta, Roy Gerritsen, Tim Gerritsen
+private beta team - Darien Brito, Roy Gerritsen, 
+Tim Gerritsen
 
 /////////////////////////////////////////////////////
 
