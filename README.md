@@ -123,7 +123,8 @@ Layer 1 goes to MIDI Channel 1, and so on.
 geoMusicaUI: 
 the control center for the system, here you define
 all the parameters to generate the compositions, 
-create presets with TDMorph (Darien Brito) and synchronize 
+create presets with TDMorph (Darien Brito 
+https://github.com/darienbrito) and synchronize 
 with external systems.
 
 geoMusicaRender:
