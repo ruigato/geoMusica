@@ -25,7 +25,21 @@
  Sir Francis Bacon, in "The New Atlantis", 1626
  
 
-geoMusica 1.200715
+
+/////////////////////////////////////////////////////
+
+geoMusica 1.200723
+
+Author:
+Rui Gato
+gato.rui@gmail.com
+https://www.ruigato.info/blog
+https://www.patreon.com/GeoMusica
+
+
+/////////////////////////////////////////////////////
+
+ABOUT:
 
 geoMusica is a tool to make music with geometry. 
 Compose geometries and listen to the musical 
@@ -75,6 +89,10 @@ using TD allways gave generously without asking for
 return.
 
 
+/////////////////////////////////////////////////////
+
+PLEASE SUPPORT DEVELOPMENT:
+
 https://www.patreon.com/GeoMusica
 
 This Patreon page is made for supporting the 
@@ -82,6 +100,65 @@ research and development of the GeoMusica software.
 If you like to use GeoMusica, or if you 
 just want to help, please join in!
 
+
+/////////////////////////////////////////////////////
+
+INSTALL AND USAGE INSTRUCTIONS:
+
+this package contains the 4 processes of geoMusica:
+
+geoMusicaEngine: 
+its the heart of geoMusica, where the geometrical 
+shapes get converted into MIDI signal, and also 
+frequencies and triggers for geoMusicaSynth. the 
+Engine tries to run at 480 fps, so it matches the MIDI
+standard timming resolution. You should connect 
+the Engine via MIDI to your favorite sound source, 
+preferably a Polyphonic Aftertouch able synth so you 
+can enjoy the full spectrum of frequencies that 
+geoMusica generates.
+
+geoMusicaUI: 
+the control center for the system, here you define
+all the parameters to generate the compositions, 
+create presets with TDMorph (Darien Brito) and synchronize 
+with external systems.
+
+geoMusicaRender:
+here the geometry gets visualized, in the most 
+synthetical way possible, so you can focus on
+the musical composition. You can run the Engine without
+the Render if you want.
+
+geoMusicaSynth:
+just a simple wavetable synth made from the "howtoaudio.toe"
+examples (Owen Kirby), to help people that do not know
+how to handle MIDI to experiment with geoMusica. the Synth
+is not essential for geoMusica, you can close it if you 
+are using MIDI.
+
+
+
+1. install Derivative TouchDesigner 2020.25680 
+(https://derivative.ca/download/archive)
+
+2. allow firewall access to TouchDesigner on both 
+private and public networks (if asked)
+
+3. run "geoMusica.2020.25380.bat"
+
+4. wait for the 4 processes to open
+
+5. on geoMusicaEngine, under "settings" page, select your 
+MIDI Out Port. If you don't have a virtual midi loopback 
+utility, I recommend loopMIDI by Tobias Erichsen 
+(http://www.tobias-erichsen.de/) for localhost usage, 
+and rtpMIDI for remote usage.
+
+
+/////////////////////////////////////////////////////
+
+LICENSING:
 
 Since we are artists/programmers and not lawyers, 
 I trust you will give credit where credit is due 
@@ -98,16 +175,23 @@ can be made.
 Enjoy!
 
 
-Acknowledgements:
+/////////////////////////////////////////////////////
+
+ACKOWLEDGEMENTS:
 
 geoMusica has benefit from the incredible work of 
 Darien Brito with TDMorph, that allowed for a 
 seamless integration of a preset system that is 
-at the same time a parametric generative tool by 
+at the same timea parametric generative tool by 
 itself, expanding the possibilities of geoMusica 
 greatly.
-https://github.com/DarienBrito/TDMorph
 
+geoMusicaSynth is based on the very much helpful
+TD community asset from Owen Kirby, clarifying 
+the correct way to do audio in TD, "howtoaudio.toe".
+
+
+/////////////////////////////////////////////////////
 
 Rui Gato
 gato.rui@gmail.com
@@ -117,5 +201,3 @@ facebook project page:
 
 
 instagram project page:
-
-
