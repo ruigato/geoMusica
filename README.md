@@ -33,7 +33,7 @@ geoMusica 1.200723
 Author:
 Rui Gato
 gato.rui@gmail.com
-https://www.ruigato.info/blog
+http://www.ruigato.info/blog/
 https://www.patreon.com/GeoMusica
 
 
