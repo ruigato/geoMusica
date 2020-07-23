@@ -1,5 +1,10 @@
 [RELEASED]
 
+[privateBeta 1.200724]
+- artwork on geoMusicaSynth and geoMusicaEngine
+- option to turn off engineCOMP on geoMusicaSynth
+- full readme on about sections
+
 [privateBeta 1.200723]
 
 - TD 2020.25380 base upgrade
