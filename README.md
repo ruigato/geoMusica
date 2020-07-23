@@ -174,8 +174,6 @@ use this tool in a commercial endeavour or you do not
 want to disclose the source code you will get in touch 
 first, so a fair arrangement can be made.
 
-Enjoy!
-
 
 /////////////////////////////////////////////////////
 
@@ -218,11 +216,14 @@ Tim Gerritsen
 
 /////////////////////////////////////////////////////
 
+Enjoy!
+
 Rui Gato
 gato.rui@gmail.com
 https://www.ruigato.info/blog
 
 facebook project page:
-
+https://www.facebook.com/geomusicasoftware
 
 instagram project page:
+
