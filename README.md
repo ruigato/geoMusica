@@ -210,11 +210,11 @@ with inspiration, code or other to this project:
 Fermat Spiral .toe inspiration - Calvin Zirk,
 TDMorph - Darien Brito,
 Line intersections python script - Vytenis Zagorskis,
-howtoaudio (in TouchDesigner) - Owen Kirby
+howtoaudio (in TouchDesigner) - Owen Kirby, 
 wisdom along the way - Ivan delSol, Idzard, 
-Felix Larreta, Roy Gerritsen, Tim Gerritsen
+Felix Larreta, Roy Gerritsen, Tim Gerritsen, 
 private beta team - Darien Brito, Roy Gerritsen, 
-Tim Gerritsen
+Tim Gerritsen.
 
 and last but not least, shout out to the Derivative team,
 without you guys this would not be possible!
@@ -225,7 +225,7 @@ Enjoy!
 
 Rui Gato
 gato.rui@gmail.com
-https://www.ruigato.info/blog
+http://www.ruigato.info/blog
 
 facebook project page:
 https://www.facebook.com/geomusicasoftware
