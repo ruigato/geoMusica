@@ -41,7 +41,7 @@ https://www.patreon.com/GeoMusica
 
 /////////////////////////////////////////////////////
 
-#**ABOUT:**
+#**ABOUT:**#
 
 geoMusica is a tool to make music with geometry. 
 Compose geometries and listen to the musical 
