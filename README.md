@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![geoMusica starfish Logo](http://www.ruigato.info/blog/wp-content/uploads/2020/07/logo20_starfish_720.jpg)
 
 “We have also sound-houses, where we practise and 
  demonstrate all sounds, and their generation. 
