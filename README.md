@@ -41,7 +41,7 @@ https://www.patreon.com/GeoMusica
 
 /////////////////////////////////////////////////////
 
-**ABOUT:
+**ABOUT:**
 
 geoMusica is a tool to make music with geometry. 
 Compose geometries and listen to the musical 
@@ -93,7 +93,7 @@ return.
 
 /////////////////////////////////////////////////////
 
-**PLEASE SUPPORT DEVELOPMENT:
+**PLEASE SUPPORT DEVELOPMENT:**
 
 https://www.patreon.com/GeoMusica
 
@@ -105,11 +105,11 @@ just want to help, please join in!
 
 /////////////////////////////////////////////////////
 
-**INSTALL AND USAGE INSTRUCTIONS:
+**INSTALL AND USAGE INSTRUCTIONS:**
 
 this package contains the 4 processes of geoMusica:
 
-geoMusicaEngine: 
+**geoMusicaEngine:** 
 its the heart of geoMusica, where the geometrical 
 shapes get converted into MIDI signal, and also 
 frequencies and triggers for geoMusicaSynth. the 
@@ -163,7 +163,7 @@ and rtpMIDI for remote usage.
 
 /////////////////////////////////////////////////////
 
-**LICENSING:
+**LICENSING:**
 
 Since we are artists/programmers and not lawyers, 
 I trust you will give credit where credit is due 
@@ -179,7 +179,7 @@ first, so a fair arrangement can be made.
 
 /////////////////////////////////////////////////////
 
-**AKNOWLEDGEMENTS:
+**AKNOWLEDGEMENTS:**
 
 geoMusica has benefit from the incredible work of 
 Darien Brito with TDMorph, that allowed for a 
@@ -195,7 +195,7 @@ the correct way to do audio in TD, "howtoaudio.toe".
 
 /////////////////////////////////////////////////////
 
-**SPECIAL THANKS:
+**SPECIAL THANKS:**
 
 to my wife and kids that generously agreed to share 
 our time with this life project, 
