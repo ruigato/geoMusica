@@ -1,4 +1,4 @@
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 “We have also sound-houses, where we practise and 
  demonstrate all sounds, and their generation. 
