@@ -216,6 +216,9 @@ Felix Larreta, Roy Gerritsen, Tim Gerritsen
 private beta team - Darien Brito, Roy Gerritsen, 
 Tim Gerritsen
 
+and last but not least, shout out to the Derivative team,
+without you guys this would not be possible!
+
 /////////////////////////////////////////////////////
 
 Enjoy!
