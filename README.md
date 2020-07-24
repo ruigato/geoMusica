@@ -1,4 +1,6 @@
- “We have also sound-houses, where we practise and 
+
+
+“We have also sound-houses, where we practise and 
  demonstrate all sounds, and their generation. 
  We have harmonies which you have not, of 
  quarter-sounds, and lesser slides of sounds. 
@@ -39,7 +41,7 @@ https://www.patreon.com/GeoMusica
 
 /////////////////////////////////////////////////////
 
-ABOUT:
+**ABOUT:
 
 geoMusica is a tool to make music with geometry. 
 Compose geometries and listen to the musical 
@@ -91,7 +93,7 @@ return.
 
 /////////////////////////////////////////////////////
 
-PLEASE SUPPORT DEVELOPMENT:
+**PLEASE SUPPORT DEVELOPMENT:
 
 https://www.patreon.com/GeoMusica
 
@@ -103,7 +105,7 @@ just want to help, please join in!
 
 /////////////////////////////////////////////////////
 
-INSTALL AND USAGE INSTRUCTIONS:
+**INSTALL AND USAGE INSTRUCTIONS:
 
 this package contains the 4 processes of geoMusica:
 
@@ -120,20 +122,20 @@ geoMusica generates. IMPORTANT: the Engine is hardwired
 to output each layer in a separate MIDI channel, so 
 Layer 1 goes to MIDI Channel 1, and so on.
 
-geoMusicaUI: 
+**geoMusicaUI:**
 the control center for the system, here you define
 all the parameters to generate the compositions, 
 create presets with TDMorph (Darien Brito 
 https://github.com/darienbrito) and synchronize 
 with external systems.
 
-geoMusicaRender:
+**geoMusicaRender:**
 here the geometry gets visualized, in the most 
 synthetical way possible, so you can focus on
 the musical composition. You can run the Engine without
 the Render if you want.
 
-geoMusicaSynth:
+**geoMusicaSynth:**
 just a simple wavetable synth made from the "howtoaudio.toe"
 examples (Owen Kirby), to help people that do not know
 how to handle MIDI to experiment with geoMusica. the Synth
@@ -161,7 +163,7 @@ and rtpMIDI for remote usage.
 
 /////////////////////////////////////////////////////
 
-LICENSING:
+**LICENSING:
 
 Since we are artists/programmers and not lawyers, 
 I trust you will give credit where credit is due 
@@ -177,7 +179,7 @@ first, so a fair arrangement can be made.
 
 /////////////////////////////////////////////////////
 
-ACKOWLEDGEMENTS:
+**AKNOWLEDGEMENTS:
 
 geoMusica has benefit from the incredible work of 
 Darien Brito with TDMorph, that allowed for a 
@@ -193,7 +195,7 @@ the correct way to do audio in TD, "howtoaudio.toe".
 
 /////////////////////////////////////////////////////
 
-SPECIAL THANKS:
+**SPECIAL THANKS:
 
 to my wife and kids that generously agreed to share 
 our time with this life project, 
