@@ -3,6 +3,7 @@
 [privateBeta 1.200726]
 - geoMusicaRender camera now adapts to different resolutions
 - replaced global variables for resolution in geoMusicaRender and geoMusicaUI with dynamic primary monitor detection
+- added options in setup for defining ASIO setup (geoMusicaSynth)
 
 [privateBeta 1.200724]
 - artwork on geoMusicaSynth and geoMusicaEngine
