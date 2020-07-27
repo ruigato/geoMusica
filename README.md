@@ -27,10 +27,9 @@
  Sir Francis Bacon, in "The New Atlantis", 1626
  
 
+///////////////////////////////////////////////
 
-/////////////////////////////////////////////////////
-
-geoMusica 1.200723
+geoMusica 1._version_
 
 Copyleft 2016-2020:
 Rui Gato
@@ -39,108 +38,49 @@ http://www.ruigato.info/blog/
 https://www.patreon.com/GeoMusica
 
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 # **ABOUT:**
 
-geoMusica is a tool to make music with geometry. 
-Compose geometries and listen to the musical 
-translation in realtime, perform and experiment 
-with the Sacred Geometry inspired methods and be 
-amazed by the beauty hidden within the Mathemagics. 
+geoMusica is a tool to make music with geometry. Compose geometries and listen to the musical translation in realtime, perform and experiment with the Sacred Geometry inspired methods and be amazed by the beauty hidden within the Mathemagics. 
 
-it is structured as a multi-layer composing tool, 
-focused on geometrical parameters that can be set 
-with special proportions and shapes, and should be 
-used has a MIDI note generator, connected with your 
-favorite electronic instruments to reproduce the 
-musical output. Therefore, should be considered as 
-a generative MIDI sequencer in terms of families of 
-musical software, and its aimed at musicians that 
-use electronic tools for creation. 
+it is structured as a multi-layer composing tool, focused on geometrical parameters that can be set with special proportions and shapes, and should be used has a MIDI note generator, connected with your favorite electronic instruments to reproduce the musical output. Therefore, should be considered as a generative MIDI sequencer in terms of families of musical software, and its aimed at musicians that use electronic tools for creation. 
 
-this project started as a personal research on 
-Sacred Geometry studies, within the scope of the 
-3 year introdutory course that I attended led by 
-Prof. Luis Elye, to the amazing field of knowledge 
-hidden inside the Traditional geometrical legacy. 
-with roots lost in time, this knowledge proved 
-fundamental in bringing ordered geometrical shapes 
-that generate meaningful musical correspondance, 
-and revealing a hidden structural connection between 
-geometry and music that becames obvious when 
-exploring this tool.
+this project started as a personal research on Sacred Geometry studies, within the scope of the 3 year introdutory course that I attended led by Prof. Luis Elye, to the amazing field of knowledge hidden inside the Traditional geometrical legacy. with roots lost in time, this knowledge proved fundamental in bringing ordered geometrical shapes that generate meaningful musical correspondance, and revealing a hidden structural connection between geometry and music that becames obvious when exploring this tool.
 
-as the research evolved, i've managed to do some 
-outputs in form of talks and live concerts, that 
-generated a surprising reaction on the interested 
-audience, namely my fellow coleagues geometers, 
-the TD artists community, and the Boom Festival 
-community. that feedback gave meaning to the 
-publication and release of this tool.
+as the research evolved, i've managed to do some outputs in form of talks and live concerts, that generated a surprising reaction on the interested audience, namely my fellow coleagues geometers, the TD artists community, and the Boom Festival community. that feedback gave meaning to the publication and release of this tool.
 
-the aim for publication is to support the further 
-development of this tool, either by other 
-developers in the open-source spirit, or by anyone 
-that use this tool and want to help supporting 
-via the Patreon platform.
+the aim for publication is to support the further development of this tool, either by other developers in the open-source spirit, or by anyone that use this tool and want to help supporting via the Patreon platform.
 
-it is also a way of retribution to the fantastic 
-TouchDesigner community, that along the years of 
-using TD allways gave generously without asking for 
-return.
+it is also a way of retribution to the fantastic TouchDesigner community, that along the years of using TD allways gave generously without asking for return.
 
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 # **PLEASE SUPPORT DEVELOPMENT:**
 
 https://www.patreon.com/GeoMusica
 
-This Patreon page is made for supporting the 
-research and development of the GeoMusica software. 
-If you like to use GeoMusica, or if you 
-just want to help, please join in!
+This Patreon page is made for supporting the research and development of the GeoMusica software. If you like to use GeoMusica, or if you just want to help, please join in!
 
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 # **INSTALL AND USAGE INSTRUCTIONS:**
 
 this package contains the 4 processes of geoMusica:
 
 ## **geoMusicaEngine:** 
-its the heart of geoMusica, where the geometrical 
-shapes get converted into MIDI signal, and also 
-frequencies and triggers for geoMusicaSynth. the 
-Engine tries to run at 480 fps, so it matches the MIDI
-standard timming resolution. You should connect 
-the Engine via MIDI to your favorite sound source, 
-preferably a Polyphonic Aftertouch able synth so you 
-can enjoy the full spectrum of frequencies that 
-geoMusica generates. IMPORTANT: the Engine is hardwired
-to output each layer in a separate MIDI channel, so 
-Layer 1 goes to MIDI Channel 1, and so on.
+its the heart of geoMusica, where the geometrical shapes get converted into MIDI signal, and also frequencies and triggers for geoMusicaSynth. the Engine tries to run at 480 fps, so it matches the MIDI standard timming resolution. You should connect the Engine via MIDI to your favorite sound source, preferably a Polyphonic Aftertouch able synth so you can enjoy the full spectrum of frequencies that geoMusica generates. IMPORTANT: the Engine is hardwired to output each layer in a separate MIDI channel, so Layer 1 goes to MIDI Channel 1, and so on.
 
 ## **geoMusicaUI:**
-the control center for the system, here you define
-all the parameters to generate the compositions, 
-create presets with TDMorph (Darien Brito 
-https://github.com/darienbrito) and synchronize 
-with external systems.
+the control center for the system, here you define all the parameters to generate the compositions, create presets with TDMorph (Darien Brito https://github.com/darienbrito) and synchronize with external systems.
 
 ## **geoMusicaRender:**
-here the geometry gets visualized, in the most 
-synthetical way possible, so you can focus on
-the musical composition. You can run the Engine without
-the Render if you want.
+here the geometry gets visualized, in the most synthetical way possible, so you can focus on the musical composition. You can run the Engine without the Render if you want.
 
 ## **geoMusicaSynth:**
-just a simple wavetable synth made from the "howtoaudio.toe"
-examples (Owen Kirby), to help people that do not know
-how to handle MIDI to experiment with geoMusica. the Synth
-is not essential for geoMusica, you can close it if you 
-are using MIDI.
+just a simple wavetable synth made from the "howtoaudio.toe" examples (Owen Kirby), to help people that do not know how to handle MIDI to experiment with geoMusica. the Synth is not essential for geoMusica, you can close it if you are using MIDI.
 
 
 
@@ -154,72 +94,49 @@ private and public networks (if asked)
 
 4. wait for the 4 processes to open
 
-5. on geoMusicaEngine, under "settings" page, select your 
-MIDI Out Port. If you don't have a virtual midi loopback 
-utility, I recommend loopMIDI by Tobias Erichsen 
-(http://www.tobias-erichsen.de/) for localhost usage, 
-and rtpMIDI for remote usage.
+5. on geoMusicaEngine, under "settings" page, select your MIDI Out Port. If you don't have a virtual midi loopback utility, I recommend loopMIDI by Tobias Erichsen (http://www.tobias-erichsen.de/) for localhost usage, and rtpMIDI for remote usage.
 
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 # **LICENSING:**
 
-Since we are artists/programmers and not lawyers, 
-I trust you will give credit where credit is due 
-and respect the licence: 
+Since we are artists/programmers and not lawyers, I trust you will give credit where credit is due and respect the licence: 
 
 GNU General Public License v3 (GPL-3) 
 
-This means that if at some point you would like to 
-use this tool in a commercial endeavour or you do not 
-want to disclose the source code you will get in touch 
-first, so a fair arrangement can be made.
+This means that if at some point you would like to use this tool in a commercial endeavour or you do not want to disclose the source code you will get in touch first, so a fair arrangement can be made.
 
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 # **AKNOWLEDGEMENTS:**
 
-geoMusica has benefit from the incredible work of 
-Darien Brito with TDMorph, that allowed for a 
-seamless integration of a preset system that is 
-at the same timea parametric generative tool by 
-itself, expanding the possibilities of geoMusica 
-greatly.
+geoMusica has benefit from the incredible work of Darien Brito with TDMorph, that allowed for a seamless integration of a preset system that is at the same timea parametric generative tool by itself, expanding the possibilities of geoMusica greatly.
 
-geoMusicaSynth is based on the very much helpful
-TD community asset from Owen Kirby, clarifying 
-the correct way to do audio in TD, "howtoaudio.toe".
+geoMusicaSynth is based on the very much helpfulTD community asset from Owen Kirby, clarifying the correct way to do audio in TD, "howtoaudio.toe".
 
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 # **SPECIAL THANKS:**
 
-to my wife and kids that generously agreed to share 
-our time with this life project, 
+to my wife and kids that generously agreed to share our time with this life project, 
 
-special thanks to my Sacred Geometry teacher:
-Luis Elye,
+special thanks to my Sacred Geometry teacher:Luis Elye,
 
-special thanks to this developers 
-from the TD Community that contributed 
-with inspiration, code or other to this project:
+special thanks to this developers from the TD Community that contributed with inspiration, code or other to this project:
 
 Fermat Spiral .toe inspiration - Calvin Zirk,
 TDMorph - Darien Brito,
 Line intersections python script - Vytenis Zagorskis,
 howtoaudio (in TouchDesigner) - Owen Kirby, 
-wisdom along the way - Ivan delSol, Idzard, 
-Felix Larreta, Roy Gerritsen, Tim Gerritsen, 
-private beta team - Darien Brito, Roy Gerritsen, 
-Tim Gerritsen.
+wisdom along the way - Ivan delSol, Idzard Kwadijk, Felix Larreta, Roy Gerritsen, Tim Gerritsen, 
+private beta team - Darien Brito, Roy Gerritsen, Tim Gerritsen.
 
-and last but not least, shout out to the Derivative team,
-without you guys this would not be possible!
+and last but not least, shout out to the Derivative team, without you guys this would not be possible!
 
-/////////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 Enjoy!
 
