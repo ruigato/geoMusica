@@ -4,6 +4,7 @@ New features:
 
 Bugfix:
 - on N LAYERS change, widgets could dissapear
+- layer link on geoEngine inconsistency resolved
 
 
 [RELEASED]
