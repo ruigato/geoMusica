@@ -1,5 +1,8 @@
 [RELEASED]
 
+[privateBeta 1.200728]
+- ultra optimization on geoMusicaEngine MIDI triggering script, now based on eventCHOP instead of TriggerCHOP (Thanks Wieland!)
+
 [privateBeta 1.200726]
 - geoMusicaRender camera now adapts to different resolutions
 - replaced global variables for resolution in geoMusicaRender and geoMusicaUI with dynamic primary monitor detection
