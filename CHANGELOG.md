@@ -1,14 +1,19 @@
 [UNRELEASED]
 
+Bugfix:
+- TDMorph direct drag n drop from UI elements works again
+
+
+[RELEASED]
+
+[privateBeta 1.200729]
+
 New features:
 - window mode option in geoMusicaRender UI, makes geoMusicaRender and geoMusicaUI windows toggle to borders and fixed resolution of 1024x1024
 
 Bugfix:
 - on N LAYERS change, widgets could dissapear
 - layer link on geoEngine inconsistency resolved
-
-
-[RELEASED]
 
 [privateBeta 1.200728]
 - ultra optimization on geoMusicaEngine MIDI triggering script, now based on eventCHOP instead of TriggerCHOP (Thanks Wieland!)
