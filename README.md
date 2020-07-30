@@ -1,4 +1,4 @@
-![geoMusica starfish Logo](http://www.ruigato.info/blog/wp-content/uploads/2020/07/logo20_starfish_720.jpg)
+![geoMusica romanesco Logo](http://www.ruigato.info/blog/wp-content/uploads/2020/07/logo21_romanesco_720.png)
 
 “We have also sound-houses, where we practise and 
  demonstrate all sounds, and their generation. 
