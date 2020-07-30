@@ -1,4 +1,6 @@
-[UNRELEASED]
+
+
+[privateBeta 1.200730]
 
 Bugfix:
 - TDMorph direct drag n drop from UI elements works again
@@ -10,7 +12,7 @@ Bugfix:
 [privateBeta 1.200729]
 
 New features:
-- window mode option in geoMusicaRender UI, makes geoMusicaRender and geoMusicaUI windows toggle to borders and fixed resolution of 1024x1024
+- windowed mode option in geoMusicaRender UI, makes geoMusicaRender and geoMusicaUI windows toggle to borders and fixed resolution of 1024x1024
 
 Bugfix:
 - on N LAYERS change, widgets could dissapear
