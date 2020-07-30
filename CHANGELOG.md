@@ -2,6 +2,7 @@
 
 Bugfix:
 - TDMorph direct drag n drop from UI elements works again
+- new copy SOP stamping to prevent bug in primitive SOP both on geoMusicaEngine and Render
 
 
 [RELEASED]
