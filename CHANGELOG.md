@@ -2,6 +2,8 @@
 
 Bugfix:
 - trigger visualization in Render now layer based, reduces false triggers when changing presets
+- bug on widget visualization from copy to buttons squashed
+- TDMorph parameters on UI now get the correct layer number in the name
 
 
 [privateBeta 1.200730]
