@@ -54,6 +54,9 @@ the aim for publication is to support the further development of this tool, eith
 
 it is also a way of retribution to the fantastic TouchDesigner community, that along the years of using TD allways gave generously without asking for return.
 
+# **DEDICATION:**
+
+this public release of geoMusica is dedicated to my grandfather Francisco José Alves Gato. I did'nt had the luck of meeting him personally, but I know that he, has many of us before and certainly after, was one of the humans that felt the sparkle of the search for Knowledge and Beauty, which led him to research on a special tuning for the Portuguese Guitar. I know we would had good times together playing with geoMusica!
 
 ///////////////////////////////////////////////
 
@@ -84,7 +87,7 @@ just a simple wavetable synth made from the "howtoaudio.toe" examples (Owen Kirb
 
 
 
-1. install Derivative TouchDesigner 2020.25680 
+1. install Derivative TouchDesigner 2020.25380 
 (https://derivative.ca/download/archive)
 
 2. allow firewall access to TouchDesigner on both 
@@ -131,6 +134,7 @@ Fermat Spiral .toe inspiration - Calvin Zirk,
 TDMorph - Darien Brito,
 Line intersections python script - Vytenis Zagorskis,
 howtoaudio (in TouchDesigner) - Owen Kirby, 
+eventCHOP usage for ultraoptimization on geoMusicaEngine - Wieland Hilker,
 wisdom along the way - Ivan delSol, Idzard Kwadijk, Felix Larreta, Roy Gerritsen, Tim Gerritsen, 
 private beta team - Darien Brito, Roy Gerritsen, Tim Gerritsen.
 
@@ -148,6 +152,4 @@ facebook project page:
 https://www.facebook.com/geomusicasoftware
 
 instagram project page:
-
-
 
