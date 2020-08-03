@@ -148,8 +148,14 @@ Rui Gato
 gato.rui@gmail.com
 http://www.ruigato.info/blog
 
+patreon page:
+https://www.patreon.com/GeoMusica
+
 facebook project page:
 https://www.facebook.com/geomusicasoftware
+
+youtube channel:
+https://www.youtube.com/channel/UC7Hu034JhXIkvVUFGZE40QA/
 
 instagram project page:
 
