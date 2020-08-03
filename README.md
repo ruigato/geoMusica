@@ -29,7 +29,7 @@
 
 ///////////////////////////////////////////////
 
-geoMusica 1._version_
+geoMusica 1.200803
 
 Copyleft 2016-2020:
 Rui Gato
