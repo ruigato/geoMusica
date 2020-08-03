@@ -54,7 +54,7 @@ the aim for publication is to support the further development of this tool, eith
 
 it is also a way of retribution to the fantastic TouchDesigner community, that along the years of using TD allways gave generously without asking for return.
 
-# **DEDICATION:**
+**DEDICATION:**
 
 this public release of geoMusica is dedicated to my grandfather Francisco José Alves Gato. I did'nt had the luck of meeting him personally, but I know that he, has many of us before and certainly after, was one of the humans that felt the sparkle of the search for Knowledge and Beauty, which led him to research on a special tuning for the Portuguese Guitar. I know we would had good times together playing with geoMusica!
 
