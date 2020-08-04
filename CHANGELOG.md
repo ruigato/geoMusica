@@ -1,4 +1,4 @@
-[UNRELEASED]
+[publicRelease 1.200803]
 
 Bugfix:
 - trigger visualization in Render now layer based, reduces false triggers when changing presets
