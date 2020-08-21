@@ -5,6 +5,7 @@
 New features:
 - added support for Mac OS
 - restyling of UI elements
+- new ableton live template (still under development but can be used)
 
 
 [publicRelease 1.200803]
