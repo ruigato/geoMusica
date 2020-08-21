@@ -1,3 +1,12 @@
+[RELEASED]
+
+[publicRelease 1.200820]
+
+New features:
+- added support for Mac OS
+- restyling of UI elements
+
+
 [publicRelease 1.200803]
 
 Bugfix:
@@ -12,8 +21,6 @@ Bugfix:
 - TDMorph direct drag n drop from UI elements works again
 - new copy SOP stamping to prevent bug in primitive SOP both on Engine and Render
 
-
-[RELEASED]
 
 [privateBeta 1.200729]
 
