@@ -1,5 +1,10 @@
 [RELEASED]
 
+[publicRelease 1.200901]
+
+Bugfix:
+- minor bugfixes
+
 [publicRelease 1.200823]
 
 Bugfix:
