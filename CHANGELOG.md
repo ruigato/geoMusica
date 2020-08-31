@@ -1,5 +1,11 @@
 [RELEASED]
 
+[publicRelease 1.200823]
+
+Bugfix:
+- removed Engine COMP from Synth, too much instabilities
+- .bat file now correctly calls the start command (thank you bangnoise)
+
 [publicRelease 1.200820]
 
 New features:
