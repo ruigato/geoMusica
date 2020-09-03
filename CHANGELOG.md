@@ -1,5 +1,12 @@
 [RELEASED]
 
+[publicRelease 1.200903]
+
+New features:
+- now you can change the spinning direction on the preferences page of Engine, clockwise or counterclockwise
+- added resize dimensions for windowed mode, on the settings of Render
+- added support for diffent layout schemes on fullscreen mode, useful for ultrawide screens
+
 [publicRelease 1.200901]
 
 Bugfix:
