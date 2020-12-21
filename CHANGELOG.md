@@ -1,5 +1,23 @@
 [RELEASED]
 
+[geoMusicaLive branch publicRelease 1.201221]
+
+ATTENTION!: this branch is currently being developed on the experimental TD 2020.44350
+
+New features:
+- Ableton Live 11 (beta) support, with Max for Live devices to handle communication, and a Live template for exploring
+- Startup sequence now opens in correct order the different TD processes
+- On this branch deprecated TDmorph for preseting (using Live session for that, will merge with master branch further ahead with both systems working)
+- Deprecated GeoSynth (also only on this branch for obvious reasons)
+- Tiles, Stars and Intersections section is now available (use the INTERSECT function with caution!)
+- Mathematical and Geometrical UI elements for G. SCALE, ANGLE, STEP SCALE, ALT STEP, MOD MULT and OFFSET are now available
+- Layer Link and trace options are now available (linked layers generate MIDI notes on MIDI channel 16)
+
+Bugfixes:
+- resizing window settings now correctly updates the trace function
+- UI general fixes
+
+
 [publicRelease 1.200903]
 
 New features:
