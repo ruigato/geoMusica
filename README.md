@@ -87,17 +87,20 @@ just a simple wavetable synth made from the "howtoaudio.toe" examples (Owen Kirb
 
 
 
-1. install Derivative TouchDesigner 2020.25380 
+1. install Derivative TouchDesigner 2020.44350 (current experimental)
 (https://derivative.ca/download/archive)
 
 2. allow firewall access to TouchDesigner on both 
 private and public networks (if asked)
 
-3. run "geoMusica.2020.25380.bat"
+3. run "GeoMusica.toe"
 
 4. wait for the 4 processes to open
 
 5. on geoMusicaEngine, under "settings" page, select your MIDI Out Port. If you don't have a virtual midi loopback utility, I recommend loopMIDI by Tobias Erichsen (http://www.tobias-erichsen.de/) for localhost usage, and rtpMIDI for remote usage.
+
+You can close geoMusicaSynth process if you are only using MIDI.
+
 
 
 ///////////////////////////////////////////////
@@ -158,4 +161,4 @@ youtube channel:
 https://www.youtube.com/channel/UC7Hu034JhXIkvVUFGZE40QA/
 
 instagram project page:
-
+https://www.instagram.com/geomusica.software
