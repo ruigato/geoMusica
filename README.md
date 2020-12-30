@@ -88,20 +88,25 @@ just a simple wavetable synth made from the "howtoaudio.toe" examples (Owen Kirb
 
 
 1. install Derivative TouchDesigner 2020.44350 (current experimental)
-(https://derivative.ca/download/archive)
+(https://derivative.ca/download/experimental)
 
 2. allow firewall access to TouchDesigner on both 
 private and public networks (if asked)
 
 3. run "GeoMusica.toe"
 
-4. wait for the 4 processes to open
+4. wait for the 4 processes to open * (in Mac flavor, GMSynth doesn't open automatically)
 
-5. on geoMusicaEngine, under "settings" page, select your MIDI Out Port. If you don't have a virtual midi loopback utility, I recommend loopMIDI by Tobias Erichsen (http://www.tobias-erichsen.de/) for localhost usage, and rtpMIDI for remote usage.
+5. on geoMusicaEngine, under "settings" page, select your MIDI Out Port. If you don't have a virtual midi loopback utility, I recommend:
 
-You can close geoMusicaSynth process if you are only using MIDI.
+For PC:
+ loopMIDI by Tobias Erichsen (http://www.tobias-erichsen.de/) for localhost usage, and rtpMIDI for remote usage.
 
+For Mac:
+IAC driver in Audio MIDI Setup
+https://help.ableton.com/hc/en-us/articles/209774225-How-to-setup-a-virtual-MIDI-bus
 
+6. If you are an Ableton user (which I strongly recommend for sequencing and composition), you should install TDAbleton from the TDABLETON preferences pane, Utilities page.
 
 ///////////////////////////////////////////////
 
@@ -129,7 +134,7 @@ geoMusicaSynth is based on the very much helpfulTD community asset from Owen Kir
 
 to my wife and kids that generously agreed to share our time with this life project, 
 
-special thanks to my Sacred Geometry teacher:Luis Elye,
+special thanks to my Sacred Geometry teacher: Luis Elye,
 
 special thanks to this developers from the TD Community that contributed with inspiration, code or other to this project:
 
