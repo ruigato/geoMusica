@@ -1,5 +1,17 @@
 [RELEASED]
 
+[publicRelease 1.210104]
+
+
+New features:
+- Ableton 10 Template with TDAbleton
+- Scene Capture automated process in Ableton 10 (UI)
+- Using Ableton sync mode, Master Tempo is controlled by M4L device (Engine)
+- New settings for displaying FPS, and setting Rotation Offset if needed (Render)
+
+Bugfixes:
+- Trace in Layer Link was broken, now functioning
+
 [geoMusicaLive branch publicRelease 1.201221]
 
 ATTENTION!: this branch is currently being developed on the experimental TD 2020.44350
