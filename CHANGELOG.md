@@ -1,5 +1,12 @@
 [RELEASED]
 
+[publicRelease 1.210107]
+
+New Features:
+- Preferences and settings now have presistency 
+- New setting for delay of scene capture (use longer delays on slower machines).
+- New setting for displaying animated background on UI (disable on slower machines).
+
 [publicRelease 1.210104]
 
 
