@@ -1,5 +1,10 @@
 [RELEASED]
 
+[publicRelease 1.210206]
+
+- general bug fixes and improvements
+- startup now opens on WINDOWED MODE, to help people with High DPi screens
+
 [publicRelease 1.210107]
 
 New Features:
