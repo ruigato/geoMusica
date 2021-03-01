@@ -1,5 +1,9 @@
 [RELEASED]
 
+[publicRelease 1.210301]
+- updated to TouchDesigner 2021.10330 (current official release)
+
+
 [publicRelease 1.210206]
 
 - general bug fixes and improvements
