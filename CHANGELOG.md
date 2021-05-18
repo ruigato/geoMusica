@@ -1,3 +1,31 @@
+[UNRELEASED / RELEASED On Patreon Expert Version]
+
+[patreonRelease 1.210518]
+
+- updated to TouchDesigner 2021.13610 (current official release)
+
+Optimizations:
+A major update with lots of under the hood changes, focused on efficiency and simpler structure for the system. The new version of GeoMusica, 1.210518, deprecates the previous 3 processes structure, in favour of a unified single process structure, based on multi-threaded internal EngineCOMPs that streamline and pump up the efficiency and performance.
+So now on, GM will need only one instance of TouchDesigner.
+
+The UI has been rebuilt, for faster and more precise usage, and also for future additions and modifications to the modules of GM.
+Also less inconsistencies between PC / MAC.
+We have 2 UI options available, under settings > preferences
+One is the basic GUI, made with the most simplest elements of UI from TouchDesigner, in order to prioritize performance and compability.
+The other is the Uber GUI, from Enviral Designs by Lucas Morgan ( https://github.com/EnviralDesign/UberGui ).
+On a PC or a fast Mac, I recommend Uber GUI. If you feel downgrade on performance, use Basic UI.
+
+BACKWARDS COMPABILITY WARNING:
+The TDmorph presets with this update are not backwards compatible.
+So if anyone has TDmorph presets that want to use on the new version, will have to convert them to ableton presets, using the Ableton scene capture under the options pane.
+GeoSynth is currently being upgraded to fit the new structure design, so this version doesn't includes the synth. Particles are also
+
+New Features:
+- Dark mode is now an option
+- Geometry on the back of the GUI is an option, for when you want to use a single window to save monitor space.
+- Help system on Uber GUI almost completed, use the ? sign (almost all but still need to write some)
+
+
 [RELEASED]
 
 [publicRelease 1.210301]
