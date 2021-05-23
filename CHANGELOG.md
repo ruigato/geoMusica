@@ -1,5 +1,22 @@
 [UNRELEASED / RELEASED On Patreon Expert Version]
 
+
+[patreonRelease 1.210523] 
+
+- added Expert Mode option in the Options menu.
+- re-integrated Geo Synth, now within the main .toe file also, and working with Engine COMP 
+- re-integrated Albeton Live realtime parameters update
+- fixed modulus menu options
+- fixed Uber GUI offset problem when using Non-Commercial TD license and Fullscreen
+
+
+
+[patreonRelease 1.210520]
+
+- added new anonymous statistics module, optional.
+
+
+
 [patreonRelease 1.210518]
 
 - updated to TouchDesigner 2021.13610 (current official release)
