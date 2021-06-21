@@ -29,7 +29,7 @@
 
 ///////////////////////////////////////////////
 
-geoMusica 1.210301
+geoMusica 1.210621
 
 Copyleft 2016-2021:
 Rui Gato
@@ -73,6 +73,8 @@ This Patreon page is made for supporting the research and development of the Geo
 
 this package contains the 3 processes of geoMusica:
 
+Attention: The new version of GeoMusica, 1.210621, deprecates the previous 3 processes structure, in favour of a unified single process structure, based on multi-threaded internal EngineCOMPs that streamline and pump up the efficiency and performance.
+
 ## **geoMusicaEngine:** 
 its the heart of geoMusica, where the geometrical shapes get converted into MIDI signal, and also frequencies and triggers for geoMusicaSynth. the Engine tries to run at 480 fps, so it matches the MIDI standard timming resolution. You should connect the Engine via MIDI to your favorite sound source, preferably a Polyphonic Aftertouch able synth so you can enjoy the full spectrum of frequencies that geoMusica generates. IMPORTANT: the Engine is hardwired to output each layer in a separate MIDI channel, so Layer 1 goes to MIDI Channel 1, and so on.
 
@@ -88,17 +90,15 @@ A wavetable synth inspired in the "howtoaudio.toe" examples (Owen Kirby), design
 
 
 
-1. install Derivative TouchDesigner 2021.10330 (current official)
+1. install Derivative TouchDesigner 2021.13610 (current official)
 (https://derivative.ca/download/)
 
 2. allow firewall access to TouchDesigner on both 
 private and public networks (if asked)
 
-3. run "GeoMusica.toe"
+3. run "GeoMusica.1.210621"
 
-4. wait for the 3 processes to open
-
-5. on geoMusicaEngine, under "settings" page, select your MIDI Out Port. If you don't have a virtual midi loopback utility, I recommend:
+4. under "settings" page, select your MIDI Out Port. If you don't have a virtual midi loopback utility, I recommend:
 
 For PC:
  loopMIDI by Tobias Erichsen (http://www.tobias-erichsen.de/) for localhost usage, and rtpMIDI for remote usage.
@@ -107,9 +107,9 @@ For Mac:
 IAC driver in Audio MIDI Setup
 https://help.ableton.com/hc/en-us/articles/209774225-How-to-setup-a-virtual-MIDI-bus
 
-6. If you are an Ableton user (which I strongly recommend for sequencing and composition), you should install TDAbleton from the TDABLETON preferences pane, Utilities page.
+5. If you are an Ableton user (which I strongly recommend for sequencing and composition), you should install TDAbleton by clicking on TDAbleton Setup under Main Menu > Settings > Preferences.
 
-7. If you don't have easy access to sound generation modules, go to https://dotpiano.com/ and enjoy your GeoMusica in a nice webSynth Piano!
+6. If you don't have easy access to sound generation modules, go to https://dotpiano.com/ and enjoy your GeoMusica in a nice webSynth Piano!
 
 ///////////////////////////////////////////////
 
@@ -148,6 +148,7 @@ howtoaudio (in TouchDesigner) - Owen Kirby,
 eventCHOP usage for ultraoptimization on geoMusicaEngine - Wieland Hilker,
 wisdom along the way - Ivan delSol, Idzard Kwadijk, Felix Larreta, Roy Gerritsen, Tim Gerritsen, 
 private beta team - Darien Brito, Roy Gerritsen, Tim Gerritsen.
+UberGUI - Lucas Morgan
 
 and last but not least, shout out to the Derivative team, without you guys this would not be possible!
 

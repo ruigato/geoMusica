@@ -1,5 +1,51 @@
 [UNRELEASED / RELEASED On Patreon Expert Version]
 
+- for the Summer Solstice 2021, current public release is in sync with Patreon Release. Enjoy!
+- Next round of developments will focus on new features and geometrical series, to be released on Patreon first, on the Expert version tiers.
+
+[RELEASED]
+
+[publicRelease 1.210621]
+
+- synced Public release with Expert Version Patreon Release
+- panel Comps from UI are now Keep In Memory
+- added tips
+- fixed bug in about text
+
+[patreonRelease 1.210601]
+ 
+- ableton live data streams optimized
+- fixed bug on keyboard layer select
+- fixed version number display
+
+[patreonRelease 1.210529] 
+
+- added flashing warning in case of Par to All Layers is turned on, to prevent misusage.
+- window size parameter now updates also render window.
+- mouse wheel on Uber and Basic UI now updates also Ableton Live parameters.
+- added toggle button (under sync source) to turn on or off Send OSC to Ableton realtime parameter updates.
+- optimized script performance for option Par to All Layers
+- touchIn touchOut operators instead of OSC for GMsynth
+- added parameter section names to basic UI
+- added Gain and Pan to synth Layers
+- added layer number update to TDMorph
+- added preset manager to geoSynth (internal only, needs UI)
+- fixed bug in Wet parameter of synth fx
+- added top menu parameters capture to TDMorph preset system
+- minor optimizations on data streams
+- midiout optimized
+
+[patreonRelease 1.210524] 
+
+- Auto resolution detection to avoid window size above monitor limits
+- Realtime update when changing window mode size
+- geoSynth audio preferences added
+- rotation offset fixed
+- layerLink numbers fixed
+- auto ableton sync set when ableton connection detected
+- added setting to adjust note triggering sensibility, in degrees
+
+
 
 [patreonRelease 1.210523] 
 
@@ -35,15 +81,13 @@ On a PC or a fast Mac, I recommend Uber GUI. If you feel downgrade on performanc
 BACKWARDS COMPABILITY WARNING:
 The TDmorph presets with this update are not backwards compatible.
 So if anyone has TDmorph presets that want to use on the new version, will have to convert them to ableton presets, using the Ableton scene capture under the options pane.
-GeoSynth is currently being upgraded to fit the new structure design, so this version doesn't includes the synth. Particles are also
+
 
 New Features:
 - Dark mode is now an option
 - Geometry on the back of the GUI is an option, for when you want to use a single window to save monitor space.
 - Help system on Uber GUI almost completed, use the ? sign (almost all but still need to write some)
 
-
-[RELEASED]
 
 [publicRelease 1.210301]
 - updated to TouchDesigner 2021.10330 (current official release)
