@@ -1,9 +1,53 @@
+
 [UNRELEASED / RELEASED On Patreon Expert Version]
+
+
+[RELEASED]
+
+[publicRelease 1.220320]
+
+- for the Spring Equinox 2022, current public release is in sync with Patreon Release. Enjoy!
+
+
+[patreonRelease 1.220112]
+
+- bugfix for resolution in GM render when max height is less than 1280
+- equal / free button now reacts to Ableton automation ( thank you @Zoltan for finding this one )
+- minor bugfixes
+- cosmetic and functional rearrangement of UI elements in the Ableton M4L devices (thank you @Zoltan for that ! )
+
+
+[patreonRelease 1.220106]
+
+- please update your TD version to build 2021.38110
+- experimental TD version with Vulkan backend released, so GM is now fully adapted to Vulkan and many other new features in TD. 
+- due to current experimental version TD not supporting Engine COMP's yet, we are back into 2 instances of TD, running UI and Engine/Render separately. Also GM Synth is disabled temporarily.
+- with the new improvements possible with the Vulkan implementation, the UI is back on TD widgets, now fully scalable and adaptative to high resolution DPI screens.
+- you can now run UI and Engine in different machines on the same network.
+- lots of improvements on the handling of control signal between Ableton and TD.
+- due to pending update of the TDMorph package, TDMorph is currently disabled.
+- M1 / Apple silicon should get a much better performance with this Vulkan implementation.
+- par to all layers is now called Unison.
+- you can now choose which layer you and Unison to affect.
+- GLOBAL tab on the top menu contains parameters that affect all layers, making it possible to change harmony shapes all at once.
+- Quantization control under the SYNC tab on the top menu sets Max For Live device on the Ableton Template liveset tracks on or off, via MIDI (you need to setup the MIDI in port in Ableton also to Remote).
+- TD ramp option is deprecated due to better performance of the Vulkan engine.
+
+- ATTENTION MAC USERS! the Dots visual feature is currently not working on the Mac, because of the Line MAT not being supported yet. This does not affect in any way the MIDI output.
+
+
+
+[patreonRelease 1.211201]
+
+- network distribution of machine roles is now possible: you can assign a machine for Ableton and another for GM. Details on setup soon in a video tutorial. Best setup recommendation: M1 mac for Ableton, Nvidia graphics PC for GM.
+- video fx section in now available on the main menu.
+- rotation is now smoother because of filtering of the sync signal that comes kind of jittery from max for live via OSC.
+- new TD ramp option under sync section, to use when in Ableton sync mode. A better time ramp, less jitter, still experimental.
+- lots of small bug and improvements.
+
 
 - for the Summer Solstice 2021, current public release is in sync with Patreon Release. Enjoy!
 - Next round of developments will focus on new features and geometrical series, to be released on Patreon first, on the Expert version tiers.
-
-[RELEASED]
 
 [publicRelease 1.210621]
 
@@ -20,7 +64,7 @@
 
 [patreonRelease 1.210529] 
 
-- added flashing warning in case of Par to All Layers is turned on, to prevent misusage.
+- added flashing warning in case of Par to All Layers is turned on, to prevent misuse.
 - window size parameter now updates also render window.
 - mouse wheel on Uber and Basic UI now updates also Ableton Live parameters.
 - added toggle button (under sync source) to turn on or off Send OSC to Ableton realtime parameter updates.
