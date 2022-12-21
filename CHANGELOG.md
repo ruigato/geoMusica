@@ -4,6 +4,24 @@
 
 [RELEASED]
 
+[publicRelease 1.221221]
+
+- for the Winter Solstice 2022, current public release is in sync with Patreon Release. Enjoy!
+
+- updated geoUser for correct submission of statistics
+- fixed bug when modulus note velocity didn't work correctly
+- fixed duration visual representation of the dots
+
+[patreonRelease 1.221014]
+
+- updated to TD build 2022.28040
+- New architecture with dual engine system for maximum performance of MIDI timming: render engine now independent from the MIDI engine
+- lots of bug fixes
+- VFX features now controllable via dedicated Ableton track device
+
+
+
+
 [publicRelease 1.220320]
 
 - for the Spring Equinox 2022, current public release is in sync with Patreon Release. Enjoy!
