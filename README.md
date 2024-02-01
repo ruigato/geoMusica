@@ -29,9 +29,9 @@
 
 ///////////////////////////////////////////////
 
-geoMusica 1.221221
+geoMusica 1.2401218
 
-Copyleft 2016-2022:
+Copyleft 2016-2024:
 Rui Gato
 gato.rui@gmail.com
 http://www.ruigato.info/blog/
@@ -73,7 +73,7 @@ This Patreon page is made for supporting the research and development of the Geo
 
 this package contains the 3 processes of geoMusica:
 
-Attention: The new version of GeoMusica, 1.221221, reiterates the previous 2 processes structure, this time on a dual process structure.
+Attention: The new version of GeoMusica, 1.2401218, reiterates the previous 2 processes structure, this time on a dual process structure.
 
 ## **geoMusicaEngine:** 
 its the heart of geoMusica, where the geometrical shapes get converted into MIDI signal, and also frequencies and triggers for geoMusicaSynth. the Engine tries to run at 480 fps, so it matches the MIDI standard timming resolution. You should connect the Engine via MIDI to your favorite sound source, preferably a Polyphonic Aftertouch able synth so you can enjoy the full spectrum of frequencies that geoMusica generates. IMPORTANT: the Engine is hardwired to output each layer in a separate MIDI channel, so Layer 1 goes to MIDI Channel 1, and so on.
@@ -90,7 +90,7 @@ A wavetable synth inspired in the "howtoaudio.toe" examples (Owen Kirby), design
 
 
 
-1. install Derivative TouchDesigner 2022.31030 (current official)
+1. install Derivative TouchDesigner 2023.11340 (current official)
 (https://derivative.ca/download/)
 
 2. allow firewall access to TouchDesigner on both 

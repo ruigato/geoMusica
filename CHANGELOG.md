@@ -4,6 +4,15 @@
 
 [RELEASED]
 
+[publicRelease 1.240128]
+
+- general updates to TD 2023.11340
+- TDAbleton update to latest version
+- bug fixes and improvements
+- small design improvements on Layer M4L device (@Zoltan)
+
+
+
 [publicRelease 1.221221]
 
 - for the Winter Solstice 2022, current public release is in sync with Patreon Release. Enjoy!
